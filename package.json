@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "live-server --port=5501",
+    "dev": "live-server --port=5501 --ignore=style.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
